@@ -1,0 +1,20 @@
+Pablo Hernandez
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::1cd3:95a4:7914:12cb%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.25
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::904:1029:7926:b9d%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+23:15
