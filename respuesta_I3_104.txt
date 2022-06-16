@@ -12,3 +12,16 @@ Todo mergeado, ya que la rama_de_gama tenia toda la informacion actualizada
 git add .
 git commit -m "bla bla"
 git push origin main
+
+Kreczmer Nakasone Ezequiel Yukio
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+No. La rama de GAMMA queda desactualizada (hasta el punto 4). La rama de BETA esta actualizada sin contar las preguntas.
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+Tuvimos que cambiar de rama (git checkout rama_destino) para poder realizar el merge (git merge rama_origen)
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+git pull origin Rama_Beta 
+git checkout Rama_Beta
+modifique beta.txt
+git add .
+git commit -m "blabla"
+git push origin Rama_Beta
