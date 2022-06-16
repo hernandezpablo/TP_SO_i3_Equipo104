@@ -25,3 +25,12 @@ modifique beta.txt
 git add .
 git commit -m "blabla"
 git push origin Rama_Beta
+
+Joaquín Lubo Millán
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git pull origin beta 
+git checkout beta
+modifique beta.txt
+git add .
+git commit -m "blabla"
+git push origin beta
