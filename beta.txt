@@ -18,3 +18,27 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
 23:15
+
+Ezequiel Yukio Kreczmer Nakasone
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::553c:a9b7:f7a0:ab27%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::d0aa:1bf6:27dd:5819%13
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.40
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+PS C:\Users\YUKI III THE GREAT\Tp1.2ArqSo\TP_SO_i3_Equipo104>
+
+23:20
