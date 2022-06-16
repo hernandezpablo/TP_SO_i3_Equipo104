@@ -1,0 +1,14 @@
+Hernández Pablo
+a-¿Como queda El master después de estos cambios?
+El master queda actualizado con los ultimos cambios.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Si, ya que fui accediendo a las distintas ramas donde ocurrian los cambios
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+git checkout main
+git merge rama_de_gamma
+Todo mergeado, ya que la rama_de_gama tenia toda la informacion actualizada
+git add .
+git commit -m "bla bla"
+git push origin main
